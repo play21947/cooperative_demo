@@ -1,0 +1,1 @@
+export const baseURL = "http://play2hello.ddns.net:3001"
